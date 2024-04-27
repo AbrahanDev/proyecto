@@ -91,7 +91,7 @@ body {
 .header-content p {
     font-size: 16px;
     color: white;
-    padding: 0 255px; /* Cambiado de 0 250px a 0 255px */
+    padding: 0 255px;
     margin-bottom: 25px;
 }
 
